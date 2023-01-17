@@ -22,5 +22,5 @@ $ nmp i --save-dev dotenv nodemon
 $ nmp start
 ```
 ## Languagues
-This program only use JavaScript 
+This program only uses JavaScript 
 ###### Made by MKvO
