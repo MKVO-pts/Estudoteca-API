@@ -16,8 +16,10 @@ used by the project Estudoteca.
 ```
 $ git clone https://github.com/MKVO-pts/Estudoteca-API.git
 $ cd Estudoteca-API
+$ npm init -y
 $ npm install express nodemon mongoose
 $ nmp i --save-dev dotenv nodemon
+$ nmp start
 ```
 ## Languagues
 This program only use JavaScript 
