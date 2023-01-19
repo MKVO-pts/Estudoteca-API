@@ -13,8 +13,7 @@ const Ficheiro = mongoose.model('Ficheiro', {  //cria uma collection na DB chama
 
     espaco: Number,
     anonymous: Boolean,
-    username: String,
-    date: Date
+    username: String
 })
 
 module.exports = Ficheiro
